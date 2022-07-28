@@ -2,12 +2,13 @@ body{
     margin: 0;
     padding: 0;
     font-family: sans-serif,Arial, Helvetica, sans-serif;
+    background-color: #e9f8db;
 }
 
 .admins{
     height: 650px;
     width: 100%;
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     position: relative;
 }
 
@@ -20,11 +21,11 @@ body{
     margin: auto;
     width: 700px;
     height: 500px;
-    background-color: rgb(242, 225, 126);
-    padding: 20px;
+    /* background-color: rgb(189, 248, 86); */
+    padding: 0px;
  
     border-radius: 5px;
-    background: #e9f8db;
+    background-color: #ffffff;
     border: 1px solid;
 
 }
